@@ -23,7 +23,7 @@ x = [-3.5 -5 6.2 11 0 8.1 -9 0 3 -1 3 2.5]
 for i = 1:length(x)
    for j = 1:length(x)
       if (x(i)<x(j)) 
-         swap = x(i);
+         swap = x(i); %Swap is just a variable so we do not loose value in case we overwrite 
          x(i) = x(j);
          x(j) = swap;
       end

@@ -5,8 +5,8 @@ clear all
 
 %Problem 1
 %Chapter 6
-%Sample Problem 6-8
-%Creating a Matrix with loop
+%Problem 15
+%Page 212
 %{
 Problem statement:
 Write a program in a script file that 

@@ -6,6 +6,7 @@ clear all
 %Problem 1
 %Chapter 6
 %Sample Problem 6-8
+%Page 199
 %Creating a Matrix with loop
 %{
 Problem statement:

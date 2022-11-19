@@ -16,3 +16,7 @@ TimeTwo = 1986;
 TimeDiff = TimeTwo-TimeOne;
 TimeGapOfInterest = 2000-TimeOne;
 MexicoPopulationAt2000 = findPredictionAtT(MexicoPopulationAt1980, MexicoPopulationAt1986, TimeDiff, TimeGapOfInterest)
+
+%Problem3
+
+

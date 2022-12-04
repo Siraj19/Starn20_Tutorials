@@ -2,6 +2,8 @@ clc
 clear all
 
 %Making height matrix so that we can compute volume on given values of height
+%Step size are small to make it better fit the real model or to fit curves
+%in steps appropriately
 height_vector = 0:0.01:70;
 %Making blank volume vector where we would store volumes corresponding to
 %height vector
